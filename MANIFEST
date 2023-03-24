@@ -1,3 +1,14 @@
+# TODO
+# &File
+#   &Open ^O
+#   Open &Recent...
+#   ---
+#   &Configure... # e.g., Application Scale
+#   ---
+#   &Quit
+# &Help
+#   &About
+
 odtwb.go
 
 README.md
